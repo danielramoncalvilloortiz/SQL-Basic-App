@@ -1,0 +1,4 @@
+#Thu Jun 09 13:25:06 CDT 2022
+base.0=/Users/daniel/Downloads/android-basics-kotlin-sql-basics-app-main 2/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
